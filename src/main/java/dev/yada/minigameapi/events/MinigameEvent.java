@@ -17,6 +17,9 @@ public abstract class MinigameEvent extends Event {
     }
 
 
+    public static HandlerList getHandlerList() {
+        return HANDLERS_LIST;
+    }
     @Override
     public HandlerList getHandlers() {
         return HANDLERS_LIST;
