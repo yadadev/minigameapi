@@ -1,0 +1,4 @@
+name: MinigameAPI
+version: '1.0'
+main: dev.yada.minigameapi.MinigameAPI
+api-version: '1.20'

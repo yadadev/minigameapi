@@ -1,0 +1,9 @@
+dev\yada\minigameapi\events\MinigamePreGameEvent.class
+dev\yada\minigameapi\interfaces\TeleportHandler.class
+dev\yada\minigameapi\MinigameHandler.class
+dev\yada\minigameapi\MinigameState.class
+dev\yada\minigameapi\Minigame.class
+dev\yada\minigameapi\MinigameAPI.class
+dev\yada\minigameapi\events\MinigameEvent.class
+dev\yada\minigameapi\events\MinigameEndEvent.class
+dev\yada\minigameapi\events\MinigameStartEvent.class
