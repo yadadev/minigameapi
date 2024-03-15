@@ -16,8 +16,9 @@ public class MinigameHandler {
         instance = this;
     }
 
-    public void registerMinigame(Minigame minigame){
-
+    public Minigame registerMinigame(Minigame minigame){
+        minigames.add(minigame);
+        return minigame;
     }
 
     protected void cleanupMinigame(Minigame minigame){
